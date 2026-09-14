@@ -33,13 +33,13 @@ El repositorio sirve como espacio de evidencia académica y como ejemplo de orga
 
 ## Archivos y comandos clave
 
-| Elemento | Descripción |
-| --- | --- |
-| README.md | Presentación principal del proyecto y contenido general. |
-| docs/GUIA.md | Documento guía para explicar el trabajo a otra persona. |
-| img/captura.png | Captura visual del proyecto para mostrar evidencia. |
-| `git status` | Revisa el estado actual de los archivos modificados. |
-| `git push origin main` | Publica los cambios en GitHub. |
+| Elemento               | Descripción                                              |
+| ---------------------- | -------------------------------------------------------- |
+| README.md              | Presentación principal del proyecto y contenido general. |
+| docs/GUIA.md           | Documento guía para explicar el trabajo a otra persona.  |
+| img/captura.png        | Captura visual del proyecto para mostrar evidencia.      |
+| `git status`           | Revisa el estado actual de los archivos modificados.     |
+| `git push origin main` | Publica los cambios en GitHub.                           |
 
 ## Comandos de uso
 
