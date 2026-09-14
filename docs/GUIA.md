@@ -2,11 +2,11 @@
 
 ## ¿Qué es este trabajo?
 
-Este proyecto es una pequeña presentación personal de mi portafolio dentro del curso de Diseño Avanzado de Interfaces de Programación. Su objetivo es mostrar información relevante del estudiante, la ruta de trabajo y la documentación de los laboratorios realizados.
+Este proyecto es una pequeña presentación personal de mi portafolio dentro del curso de Diseño Avanzado de Interfaces de Programación.
 
 ### Propósito del repositorio
 
-El repositorio sirve como espacio de evidencia académica y como ejemplo de organización en GitHub. Aquí se documentan actividades, enlaces útiles y capturas del trabajo para que otros compañeros puedan comprender rápidamente el contexto.
+El repositorio sirve como espacio de evidencia académica y como ejemplo de organización en GitHub.
 
 ## Instalación y uso
 
@@ -58,7 +58,3 @@ git push origin main
 ### Vista previa del trabajo
 
 ![Captura del portafolio](../img/captura.png)
-
-## Conclusión
-
-Esta guía permite que otra persona entienda de forma rápida qué es el proyecto, cómo abrirlo, cómo revisarlo y qué elementos están incluidos en la entrega. La documentación clara es una parte fundamental del trabajo en tecnología y facilita la colaboración y la evaluación.
